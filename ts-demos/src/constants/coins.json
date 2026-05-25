@@ -1,0 +1,452 @@
+{
+  "AFSUI": {
+    "COIN_TYPE": "0xf325ce1300e8dac124071d3152c5c5ee6174914f8bc2161e88329cf579246efc::afsui::AFSUI",
+    "COIN_DECIMALS": 9,
+    "COIN_SYMBOL": "AFSUI",
+    "COIN_NAME": "afSUI"
+  },
+  "ALKIMI": {
+    "COIN_TYPE": "0x1a8f4bc33f8ef7fbc851f156857aa65d397a6a6fd27a7ac2ca717b51f2fd9489::alkimi::ALKIMI",
+    "COIN_DECIMALS": 9,
+    "COIN_SYMBOL": "ALKIMI",
+    "COIN_NAME": "Alkimi"
+  },
+  "ALPHA": {
+    "COIN_TYPE": "0xfe3afec26c59e874f3c1d60b8203cb3852d2bb2aa415df9548b8d688e6683f93::alpha::ALPHA",
+    "COIN_DECIMALS": 9,
+    "COIN_SYMBOL": "ALPHA",
+    "COIN_NAME": "ALPHA Token"
+  },
+  "APTOS": {
+    "COIN_TYPE": "0x3a5143bb1196e3bcdfab6203d1683ae29edd26294fc8bfeafe4aaa9d2704df37::coin::COIN",
+    "COIN_DECIMALS": 8,
+    "COIN_SYMBOL": "APT",
+    "COIN_NAME": "Aptos Coin"
+  },
+  "AUSD": {
+    "COIN_TYPE": "0x2053d08c1e2bd02791056171aab0fd12bd7cd7efad2ab8f6b9c8902f14df2ff2::ausd::AUSD",
+    "COIN_DECIMALS": 6,
+    "COIN_SYMBOL": "AUSD",
+    "COIN_NAME": "AUSD"
+  },
+  "BLUB": {
+    "COIN_TYPE": "0xfa7ac3951fdca92c5200d468d31a365eb03b2be9936fde615e69f0c1274ad3a0::BLUB::BLUB",
+    "COIN_DECIMALS": 2,
+    "COIN_SYMBOL": "BLUB",
+    "COIN_NAME": "BLUB"
+  },
+  "BLUE": {
+    "COIN_TYPE": "0xe1b45a0e641b9955a20aa0ad1c1f4ad86aad8afb07296d4085e349a50e90bdca::blue::BLUE",
+    "COIN_DECIMALS": 9,
+    "COIN_SYMBOL": "BLUE",
+    "COIN_NAME": "Bluefin"
+  },
+  "BUCK": {
+    "COIN_TYPE": "0xce7ff77a83ea0cb6fd39bd8748e2ec89a3f41e8efdc3f4eb123e0ca37b184db2::buck::BUCK",
+    "COIN_DECIMALS": 9,
+    "COIN_SYMBOL": "BUCK",
+    "COIN_NAME": "Bucket USD"
+  },
+  "CETUS": {
+    "COIN_TYPE": "0x06864a6f921804860930db6ddbe2e16acdf8504495ea7481637a1c8b9a8fe54b::cetus::CETUS",
+    "COIN_DECIMALS": 9,
+    "COIN_SYMBOL": "CETUS",
+    "COIN_NAME": "Cetus Token"
+  },
+  "DEEP": {
+    "COIN_TYPE": "0xdeeb7a4662eec9f2f3def03fb937a663dddaa2e215b8078a284d026b7946c270::deep::DEEP",
+    "COIN_DECIMALS": 6,
+    "COIN_SYMBOL": "DEEP",
+    "COIN_NAME": "DeepBook Token"
+  },
+  "DMC": {
+    "COIN_TYPE": "0x4c981f3ff786cdb9e514da897ab8a953647dae2ace9679e8358eec1e3e8871ac::dmc::DMC",
+    "COIN_DECIMALS": 9,
+    "COIN_SYMBOL": "DMC",
+    "COIN_NAME": "DeLorean"
+  },
+  "EBTC": {
+    "COIN_TYPE": "0x244b98d29bd0bba401c7cfdd89f017c51759dad615e15a872ddfe45af079bb1d::ebtc::EBTC",
+    "COIN_DECIMALS": 8,
+    "COIN_SYMBOL": "eBTC",
+    "COIN_NAME": "Ember BTC"
+  },
+  "EGUSDC": {
+    "COIN_TYPE": "0x68532559a19101b58757012207d82328e75fde7a696d20a59e8307c1a7f42ad7::egusdc::EGUSDC",
+    "COIN_DECIMALS": 6,
+    "COIN_SYMBOL": "egUSDC",
+    "COIN_NAME": "Ember Gamma USDC"
+  },
+  "ESUI": {
+    "COIN_TYPE": "0x66629328922d609cf15af779719e248ae0e63fe0b9d9739623f763b33a9c97da::esui::ESUI",
+    "COIN_DECIMALS": 9,
+    "COIN_SYMBOL": "eSUI",
+    "COIN_NAME": "Ember SUI"
+  },
+  "ETH": {
+    "COIN_TYPE": "0xd0e89b2af5e4910726fbcd8b8dd37bb79b29e5f83f7491bca830e94f7f226d29::eth::ETH",
+    "COIN_DECIMALS": 8,
+    "COIN_SYMBOL": "ETH",
+    "COIN_NAME": "ETH by Sui Bridge"
+  },
+  "ETHIRD": {
+    "COIN_TYPE": "0x89b0d4407f17cc1b1294464f28e176e29816a40612f7a553313ea0a797a5f803::ethird::ETHIRD",
+    "COIN_DECIMALS": 6,
+    "COIN_SYMBOL": "eTHIRD",
+    "COIN_NAME": "Ember Third Eye"
+  },
+  "EWAL": {
+    "COIN_TYPE": "0x8a398f65f8635be31c181632bf730aea25074505d70c77d9b287e7d4f063ef70::ewal::EWAL",
+    "COIN_DECIMALS": 9,
+    "COIN_SYMBOL": "eWAL",
+    "COIN_NAME": "Ember WAL"
+  },
+  "EXBTC": {
+    "COIN_TYPE": "0x56589f5381303a763a62e79ac118e5242f83652f4c5a9448af75162d8cb7140c::exbtc::EXBTC",
+    "COIN_DECIMALS": 8,
+    "COIN_SYMBOL": "exBTC",
+    "COIN_NAME": "Ember xBTC"
+  },
+  "FDUSD": {
+    "COIN_TYPE": "0xf16e6b723f242ec745dfd7634ad072c42d5c1d9ac9d62a39c381303eaa57693a::fdusd::FDUSD",
+    "COIN_DECIMALS": 6,
+    "COIN_SYMBOL": "FDUSD",
+    "COIN_NAME": "First Digital USD"
+  },
+  "FLSUI": {
+    "COIN_TYPE": "0xaded77ced91afca17e03306d24962f782a51c7395eaf0e7bc1e08ac0dca0fd52::fl_sui::FL_SUI",
+    "COIN_DECIMALS": 9,
+    "COIN_SYMBOL": "flSUI",
+    "COIN_NAME": "FlowX Staked SUI"
+  },
+  "FPSUI": {
+    "COIN_TYPE": "0x5fb5365e645d9728660e4ba13cb1c8eefcb950e7c20472c168d97adb36b7415c::fp_sui::FP_SUI",
+    "COIN_DECIMALS": 9,
+    "COIN_SYMBOL": "fpSUI",
+    "COIN_NAME": "FP Staked SUI"
+  },
+  "FSUI": {
+    "COIN_TYPE": "0x02358129a7d66f943786a10b518fdc79145f1fc8d23420d9948c4aeea190f603::fud_sui::FUD_SUI",
+    "COIN_DECIMALS": 9,
+    "COIN_SYMBOL": "fudSUI",
+    "COIN_NAME": "FUD Staked SUI"
+  },
+  "FUD": {
+    "COIN_TYPE": "0x76cb819b01abed502bee8a702b4c2d547532c12f25001c9dea795a5e631c26f1::fud::FUD",
+    "COIN_DECIMALS": 5,
+    "COIN_SYMBOL": "FUD",
+    "COIN_NAME": "FUD"
+  },
+  "HAEDAL": {
+    "COIN_TYPE": "0x3a304c7feba2d819ea57c3542d68439ca2c386ba02159c740f7b406e592c62ea::haedal::HAEDAL",
+    "COIN_DECIMALS": 9,
+    "COIN_SYMBOL": "HAEDAL",
+    "COIN_NAME": "Haedal"
+  },
+  "HASUI": {
+    "COIN_TYPE": "0xbde4ba4c2e274a60ce15c1cfff9e5c42e41654ac8b6d906a57efa4bd3c29f47d::hasui::HASUI",
+    "COIN_DECIMALS": 9,
+    "COIN_SYMBOL": "haSUI",
+    "COIN_NAME": "haSUI"
+  },
+  "HAWAL": {
+    "COIN_TYPE": "0x8b4d553839b219c3fd47608a0cc3d5fcc572cb25d41b7df3833208586a8d2470::hawal::HAWAL",
+    "COIN_DECIMALS": 9,
+    "COIN_SYMBOL": "haWAL",
+    "COIN_NAME": "haWAL"
+  },
+  "HIPPO": {
+    "COIN_TYPE": "0x8993129d72e733985f7f1a00396cbd055bad6f817fee36576ce483c8bbb8b87b::sudeng::SUDENG",
+    "COIN_DECIMALS": 9,
+    "COIN_SYMBOL": "HIPPO",
+    "COIN_NAME": "sudeng"
+  },
+  "IKA": {
+    "COIN_TYPE": "0x7262fb2f7a3a14c888c438a3cd9b912469a58cf60f367352c46584262e8299aa::ika::IKA",
+    "COIN_DECIMALS": 9,
+    "COIN_SYMBOL": "IKA",
+    "COIN_NAME": "IKA Token"
+  },
+  "ISUI": {
+    "COIN_TYPE": "0x285b49635f4ed253967a2a4a5f0c5aea2cbd9dd0fc427b4086f3fad7ccef2c29::i_sui::I_SUI",
+    "COIN_DECIMALS": 9,
+    "COIN_SYMBOL": "iSUI",
+    "COIN_NAME": "Ika Staked SUI"
+  },
+  "JUGSUI": {
+    "COIN_TYPE": "0xb2d912e4f100e03b7de58d874835e358dc2802f2fb8559f56a70a7c900f8fc78::jug_sui::JUG_SUI",
+    "COIN_DECIMALS": 9,
+    "COIN_SYMBOL": "jugSUI",
+    "COIN_NAME": "Jugemu Sui"
+  },
+  "KOBAN": {
+    "COIN_TYPE": "0x8400e7044d360c28dd338111d2aa54ca5bdc960a8d6b60bf3b28e1ca503df3e2::koban::KOBAN",
+    "COIN_DECIMALS": 9,
+    "COIN_SYMBOL": "KOBAN",
+    "COIN_NAME": "Koban"
+  },
+  "KSUI": {
+    "COIN_TYPE": "0x41ff228bfd566f0c707173ee6413962a77e3929588d010250e4e76f0d1cc0ad4::ksui::KSUI",
+    "COIN_DECIMALS": 9,
+    "COIN_SYMBOL": "kSUI",
+    "COIN_NAME": "Kriya Staked SUI"
+  },
+  "KW": {
+    "COIN_TYPE": "0x589613ebc9f69a9461394073212a5c1c384ce601fd7a2be7d227e805e5914337::kw::KW",
+    "COIN_DECIMALS": 9,
+    "COIN_SYMBOL": "KW",
+    "COIN_NAME": "GBCMOBILE"
+  },
+  "LBTC": {
+    "COIN_TYPE": "0x3e8e9423d80e1774a7ca128fccd8bf5f1f7753be658c5e645929037f7c819040::lbtc::LBTC",
+    "COIN_DECIMALS": 8,
+    "COIN_SYMBOL": "LBTC",
+    "COIN_NAME": "Lombard Staked BTC"
+  },
+  "LORENZO WRAPPED BITCOIN": {
+    "COIN_TYPE": "0x8f2b5eb696ed88b71fea398d330bccfa52f6e2a5a8e1ac6180fcb25c6de42ebc::coin::COIN",
+    "COIN_DECIMALS": 8,
+    "COIN_SYMBOL": "enzoBTC",
+    "COIN_NAME": "Lorenzo Wrapped Bitcoin"
+  },
+  "MBTC": {
+    "COIN_TYPE": "0xd1a91b46bd6d966b62686263609074ad16cfdffc63c31a4775870a2d54d20c6b::mbtc::MBTC",
+    "COIN_DECIMALS": 8,
+    "COIN_SYMBOL": "MBTC",
+    "COIN_NAME": "MBTC"
+  },
+  "MSUI": {
+    "COIN_TYPE": "0x922d15d7f55c13fd790f6e54397470ec592caa2b508df292a2e8553f3d3b274f::msui::MSUI",
+    "COIN_DECIMALS": 9,
+    "COIN_SYMBOL": "mSUI",
+    "COIN_NAME": "Mirai Staked SUI"
+  },
+  "MUSD": {
+    "COIN_TYPE": "0xe44df51c0b21a27ab915fa1fe2ca610cd3eaa6d9666fe5e62b988bf7f0bd8722::musd::MUSD",
+    "COIN_DECIMALS": 9,
+    "COIN_SYMBOL": "mUSD",
+    "COIN_NAME": "mUSD"
+  },
+  "NAVX": {
+    "COIN_TYPE": "0xa99b8952d4f7d947ea77fe0ecdcc9e5fc0bcab2841d6e2a5aa00c3044e5544b5::navx::NAVX",
+    "COIN_DECIMALS": 9,
+    "COIN_SYMBOL": "NAVX",
+    "COIN_NAME": "NAVX Token"
+  },
+  "NS": {
+    "COIN_TYPE": "0x5145494a5f5100e645e4b0aa950fa6b68f614e8c59e17bc5ded3495123a79178::ns::NS",
+    "COIN_DECIMALS": 6,
+    "COIN_SYMBOL": "NS",
+    "COIN_NAME": "SuiNS Token"
+  },
+  "OSHISUI": {
+    "COIN_TYPE": "0x95f9ff87d8e0640cb3369bb470761b9ec46eb0ff3cc1eed417df4fa24c853f42::oshi_sui::OSHI_SUI",
+    "COIN_DECIMALS": 9,
+    "COIN_SYMBOL": "oshiSUI",
+    "COIN_NAME": "Oshi Staked SUI"
+  },
+  "OSUI": {
+    "COIN_TYPE": "0x5a71532c1e812daeffd07ef375451fad7a2906d01151bade4d5018ffc5a3c267::o_sui::O_SUI",
+    "COIN_DECIMALS": 9,
+    "COIN_SYMBOL": "oSUI",
+    "COIN_NAME": "The Order Staked SUI"
+  },
+  "RCUSDP": {
+    "COIN_TYPE": "0x4dea4916aa61f522aca69c4e7265b8e3bdd65d3947f4fb9aaa6d87e0dfac35fd::rcusdp::RCUSDP",
+    "COIN_DECIMALS": 6,
+    "COIN_SYMBOL": "rcUSDp",
+    "COIN_NAME": "rcUSDp"
+  },
+  "SCA": {
+    "COIN_TYPE": "0x7016aae72cfc67f2fadf55769c0a7dd54291a583b63051a5ed71081cce836ac6::sca::SCA",
+    "COIN_DECIMALS": 9,
+    "COIN_SYMBOL": "SCA",
+    "COIN_NAME": "Scallop"
+  },
+  "SEND": {
+    "COIN_TYPE": "0xb45fcfcc2cc07ce0702cc2d229621e046c906ef14d9b25e8e4d25f6e8763fef7::send::SEND",
+    "COIN_DECIMALS": 6,
+    "COIN_SYMBOL": "SEND",
+    "COIN_NAME": "SEND"
+  },
+  "SPRING_SUI": {
+    "COIN_TYPE": "0x83556891f4a0f233ce7b05cfe7f957d4020492a34f5405b2cb9377d060bef4bf::spring_sui::SPRING_SUI",
+    "COIN_DECIMALS": 9,
+    "COIN_SYMBOL": "sSUI",
+    "COIN_NAME": "Spring SUI"
+  },
+  "STBTC": {
+    "COIN_TYPE": "0x5f496ed5d9d045c5b788dc1bb85f54100f2ede11e46f6a232c29daada4c5bdb6::coin::COIN",
+    "COIN_DECIMALS": 8,
+    "COIN_SYMBOL": "stBTC",
+    "COIN_NAME": "Lorenzo stBTC"
+  },
+  "STEAMM LP BSUI-BUSDC": {
+    "COIN_TYPE": "0x6b82b1ac4bf420f649c052746594a18c5df0c9fccff3a98d6856a16ba4f4e47a::steamm_lp_bsui_busdc::STEAMM_LP_BSUI_BUSDC",
+    "COIN_DECIMALS": 9,
+    "COIN_SYMBOL": "STEAMM LP bSUI-bUSDC",
+    "COIN_NAME": "STEAMM LP bSUI-bUSDC"
+  },
+  "STRATSUI": {
+    "COIN_TYPE": "0x1fea5652ae6ba58120a3262cff764b5abefe39ce603cdd5c5ca19fc584b6847e::strat_sui::STRAT_SUI",
+    "COIN_DECIMALS": 9,
+    "COIN_SYMBOL": "stratSUI",
+    "COIN_NAME": "Strategies Staked SUI"
+  },
+  "STSUI": {
+    "COIN_TYPE": "0xd1b72982e40348d069bb1ff701e634c117bb5f741f44dff91e472d3b01461e55::stsui::STSUI",
+    "COIN_DECIMALS": 9,
+    "COIN_SYMBOL": "stSUI",
+    "COIN_NAME": "AlphaFi Staked SUI"
+  },
+  "SUI": {
+    "COIN_TYPE": "0x0000000000000000000000000000000000000000000000000000000000000002::sui::SUI",
+    "COIN_DECIMALS": 9,
+    "COIN_SYMBOL": "SUI",
+    "COIN_NAME": "Sui"
+  },
+  "SUIUSDT": {
+    "COIN_TYPE": "0x375f70cf2ae4c00bf37117d0c85a2c71545e6ee05c4a5c7d282cd66a4504b068::usdt::USDT",
+    "COIN_DECIMALS": 6,
+    "COIN_SYMBOL": "USDT",
+    "COIN_NAME": "Tether"
+  },
+  "SUI_IN_SHORT": {
+    "COIN_TYPE": "0x2::sui::SUI",
+    "COIN_DECIMALS": 9,
+    "COIN_SYMBOL": "SUI",
+    "COIN_NAME": "Sui"
+  },
+  "TBTC": {
+    "COIN_TYPE": "0x77045f1b9f811a7a8fb9ebd085b5b0c55c5cb0d1520ff55f7037f89b5da9f5f1::TBTC::TBTC",
+    "COIN_DECIMALS": 8,
+    "COIN_SYMBOL": "TBTC",
+    "COIN_NAME": "tBTC v2"
+  },
+  "TREVINSUI": {
+    "COIN_TYPE": "0x502867b177303bf1bf226245fcdd3403c177e78d175a55a56c0602c7ff51c7fa::trevin_sui::TREVIN_SUI",
+    "COIN_DECIMALS": 9,
+    "COIN_SYMBOL": "trevinSUI",
+    "COIN_NAME": "Trevin Staked SUI"
+  },
+  "TURBOS": {
+    "COIN_TYPE": "0x5d1f47ea69bb0de31c313d7acf89b890dbb8991ea8e03c6c355171f84bb1ba4a::turbos::TURBOS",
+    "COIN_DECIMALS": 9,
+    "COIN_SYMBOL": "TURBOS",
+    "COIN_NAME": "Turbos"
+  },
+  "UP": {
+    "COIN_TYPE": "0x87dfe1248a1dc4ce473bd9cb2937d66cdc6c30fee63f3fe0dbb55c7a09d35dec::up::UP",
+    "COIN_DECIMALS": 6,
+    "COIN_SYMBOL": "UP",
+    "COIN_NAME": "UP"
+  },
+  "UPSUI": {
+    "COIN_TYPE": "0xe68fad47384e18cd79040cb8d72b7f64d267eebb73a0b8d54711aa860570f404::upsui::UPSUI",
+    "COIN_DECIMALS": 9,
+    "COIN_SYMBOL": "UPSUI",
+    "COIN_NAME": "Double Up Sui"
+  },
+  "USDB": {
+    "COIN_TYPE": "0xe14726c336e81b32328e92afc37345d159f5b550b09fa92bd43640cfdd0a0cfd::usdb::USDB",
+    "COIN_DECIMALS": 6,
+    "COIN_SYMBOL": "USDB",
+    "COIN_NAME": "Bucket USD"
+  },
+  "USDC": {
+    "COIN_TYPE": "0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7::usdc::USDC",
+    "COIN_DECIMALS": 6,
+    "COIN_SYMBOL": "USDC",
+    "COIN_NAME": "USDC"
+  },
+  "USDY": {
+    "COIN_TYPE": "0x960b531667636f39e85867775f52f6b1f220a058c4de786905bdf761e06a56bb::usdy::USDY",
+    "COIN_DECIMALS": 6,
+    "COIN_SYMBOL": "USDY",
+    "COIN_NAME": "Ondo US Dollar Yield"
+  },
+  "VSUI": {
+    "COIN_TYPE": "0x549e8b69270defbfafd4f94e17ec44cdbdd99820b33bda2278dea3b9a32d3f55::cert::CERT",
+    "COIN_DECIMALS": 9,
+    "COIN_SYMBOL": "vSUI",
+    "COIN_NAME": "Volo Staked SUI"
+  },
+  "WAL": {
+    "COIN_TYPE": "0x356a26eb9e012a68958082340d4c4116e7f55615cf27affcff209cf0ae544f59::wal::WAL",
+    "COIN_DECIMALS": 9,
+    "COIN_SYMBOL": "WAL",
+    "COIN_NAME": "WAL Token"
+  },
+  "WBTC": {
+    "COIN_TYPE": "0x027792d9fed7f9844eb4839566001bb6f6cb4804f66aa2da6fe1ee242d896881::coin::COIN",
+    "COIN_DECIMALS": 8,
+    "COIN_SYMBOL": "WBTC",
+    "COIN_NAME": "Wrapped BTC"
+  },
+  "WETH": {
+    "COIN_TYPE": "0xaf8cd5edc19c4512f4259f0bee101a40d41ebed738ade5874359610ef8eeced5::coin::COIN",
+    "COIN_DECIMALS": 8,
+    "COIN_SYMBOL": "WETH",
+    "COIN_NAME": "Wrapped Ether"
+  },
+  "WRAPPED BITCOIN": {
+    "COIN_TYPE": "0xaafb102dd0902f5055cadecd687fb5b71ca82ef0e0285d90afde828ec58ca96b::btc::BTC",
+    "COIN_DECIMALS": 8,
+    "COIN_SYMBOL": "wBTC",
+    "COIN_NAME": "Wrapped Bitcoin"
+  },
+  "WRAPPED BTC": {
+    "COIN_TYPE": "0x0041f9f9344cac094454cd574e333c4fdb132d7bcc9379bcd4aab485b2a63942::wbtc::WBTC",
+    "COIN_DECIMALS": 8,
+    "COIN_SYMBOL": "WBTC",
+    "COIN_NAME": "Wrapped BTC"
+  },
+  "WRAPPED SOL": {
+    "COIN_TYPE": "0xb7844e289a8410e50fb3ca48d69eb9cf29e27d223ef90353fe1bd8e27ff8f3f8::coin::COIN",
+    "COIN_DECIMALS": 8,
+    "COIN_SYMBOL": "SOL",
+    "COIN_NAME": "Wrapped SOL"
+  },
+  "WUSDC": {
+    "COIN_TYPE": "0x5d4b302506645c37ff133b98c4b50a5ae14841659738d6d733d59d0d217a93bf::coin::COIN",
+    "COIN_DECIMALS": 6,
+    "COIN_SYMBOL": "USDC",
+    "COIN_NAME": "USD Coin"
+  },
+  "WUSDT": {
+    "COIN_TYPE": "0xc060006111016b8a020ad5b33834984a437aaa7d3c74c18e09a95d48aceab08c::coin::COIN",
+    "COIN_DECIMALS": 6,
+    "COIN_SYMBOL": "USDT",
+    "COIN_NAME": "Tether USD"
+  },
+  "WWAL": {
+    "COIN_TYPE": "0xb1b0650a8862e30e3f604fd6c5838bc25464b8d3d827fbd58af7cb9685b832bf::wwal::WWAL",
+    "COIN_DECIMALS": 9,
+    "COIN_SYMBOL": "wWAL",
+    "COIN_NAME": "❄️ WAL"
+  },
+  "XAUM": {
+    "COIN_TYPE": "0x9d297676e7a4b771ab023291377b2adfaa4938fb9080b8d12430e4b108b836a9::xaum::XAUM",
+    "COIN_DECIMALS": 9,
+    "COIN_SYMBOL": "XAUM",
+    "COIN_NAME": "Matrixdock Gold"
+  },
+  "XBTC": {
+    "COIN_TYPE": "0x876a4b7bce8aeaef60464c11f4026903e9afacab79b9b142686158aa86560b50::xbtc::XBTC",
+    "COIN_DECIMALS": 8,
+    "COIN_SYMBOL": "xBTC",
+    "COIN_NAME": "OKX Wrapped BTC"
+  },
+  "YAPSUI": {
+    "COIN_TYPE": "0x83f1bb8c91ecd1fd313344058b0eed94d63c54e41d8d1ae5bff1353443517d65::yap_sui::YAP_SUI",
+    "COIN_DECIMALS": 9,
+    "COIN_SYMBOL": "yapSUI",
+    "COIN_NAME": "Yap Staked SUI"
+  },
+  "YIELD BTC.B": {
+    "COIN_TYPE": "0xa03ab7eee2c8e97111977b77374eaf6324ba617e7027382228350db08469189e::ybtc::YBTC",
+    "COIN_DECIMALS": 8,
+    "COIN_SYMBOL": "YBTC.B",
+    "COIN_NAME": "Yield BTC.B"
+  }
+}

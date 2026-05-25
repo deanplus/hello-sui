@@ -2,7 +2,7 @@ import dotenv from "dotenv";
 dotenv.config();
 import { Cetus } from "../src/cetus";
 import config from "../src/config";
-import { getKeypairFromPrivateKey } from "../src/utils/keypair";
+import * as keypairHelper from "../src/helpers/keypair";
 import { Transaction } from "@mysten/sui/transactions";
 import * as rpc from "../src/rpc";
 
@@ -58,7 +58,7 @@ async function swapByCoin() {
       toCoinType,
       inputCoin,
     },
-    keypair
+    keypair,
   );
 
   console.log(resp);
@@ -80,9 +80,9 @@ async function parseSwapEvent() {
 }
 
 async function main() {
-  await getPoolId();
+  // await getPoolId();
   // await getPool();
-  // await swapByCoin();
+  await swapByCoin();
   // await parseSwapEvent();
 }
 

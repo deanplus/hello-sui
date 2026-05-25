@@ -301,7 +301,7 @@ export async function buildSwapAmm(
   const expectedOutputType = isBaseToQuote
     ? poolInfo.quoteAsset
     : poolInfo.baseAsset;
-  if (outputCoinType !== expectedOutputType) {
+  if (!coinHelper.isSameCoinType(outputCoinType, expectedOutputType)) {
     throw new Error(
       `Output coin type ${outputCoinType} does not match expected ${expectedOutputType}`,
     );
@@ -332,7 +332,7 @@ export async function buildSwapAmm(
       quoteCoinArg,
       deepCoin,
       txb.pure.u64(minAmountOut),
-      txb.object("0x6"), // Clock object
+      txb.object("0x6"),
     ],
   });
 

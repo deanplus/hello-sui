@@ -1,0 +1,166 @@
+{
+  "0x23d7315113f5b1d3ba7a83604c44b94d79f4fd69af77f804fc7f920a6dc65744": {
+    "coinType": "0x0000000000000000000000000000000000000000000000000000000000000002::sui::SUI",
+    "symbol": "SUI"
+  },
+  "0xe62df6c8b4a85fe1a67db44dc12de5db330f7ac66b72dc658afedf0f4a415b43": {
+    "coinType": "0x027792d9fed7f9844eb4839566001bb6f6cb4804f66aa2da6fe1ee242d896881::coin::COIN",
+    "symbol": "WBTC"
+  },
+  "0xe5b274b2611143df055d6e7cd8d93fe1961716bcd4dca1cad87a83bc1e78c1ef": {
+    "coinType": "0x06864a6f921804860930db6ddbe2e16acdf8504495ea7481637a1c8b9a8fe54b::cetus::CETUS",
+    "symbol": "CETUS"
+  },
+  "0x1b2deae525b02c52de4a411c4f37139931215d7cc754e57dd6c84387336ccc74": {
+    "coinType": "0x1a8f4bc33f8ef7fbc851f156857aa65d397a6a6fd27a7ac2ca717b51f2fd9489::alkimi::ALKIMI",
+    "symbol": "ALKIMI"
+  },
+  "0xd9912df360b5b7f21a122f15bdd5e27f62ce5e72bd316c291f7c86620e07fb2a": {
+    "coinType": "0x2053d08c1e2bd02791056171aab0fd12bd7cd7efad2ab8f6b9c8902f14df2ff2::ausd::AUSD",
+    "symbol": "AUSD"
+  },
+  "0xdd74dd07913264db7179833a7e1ef2574cd0361eff0412837ce15951373e5073": {
+    "coinType": "0x244b98d29bd0bba401c7cfdd89f017c51759dad615e15a872ddfe45af079bb1d::ebtc::EBTC",
+    "symbol": "eBTC"
+  },
+  "0xeba0732395fae9dec4bae12e52760b35fc1c5671e2da8b449c9af4efe5d54341": {
+    "coinType": "0x356a26eb9e012a68958082340d4c4116e7f55615cf27affcff209cf0ae544f59::wal::WAL",
+    "symbol": "WAL"
+  },
+  "0x2b89b9dc8fdf9f34709a5b106b472f0f39bb6ca9ce04b0fd7f2e971688e2e53b": {
+    "coinType": "0xc060006111016b8a020ad5b33834984a437aaa7d3c74c18e09a95d48aceab08c::coin::COIN",
+    "symbol": "USDT"
+  },
+  "0xe67d98cc1fbd94f569d5ba6c3c3c759eb3ffc5d2b28e64538a53ae13efad8fd1": {
+    "coinType": "0x3a304c7feba2d819ea57c3542d68439ca2c386ba02159c740f7b406e592c62ea::haedal::HAEDAL",
+    "symbol": "HAEDAL"
+  },
+  "0x03ae4db29ed4ae33d323568895aa00337e658e348b37509f5372ae51f0af00d5": {
+    "coinType": "0x3a5143bb1196e3bcdfab6203d1683ae29edd26294fc8bfeafe4aaa9d2704df37::coin::COIN",
+    "symbol": "APT"
+  },
+  "0x8f257aab6e7698bb92b15511915e593d6f8eae914452f781874754b03d0c612b": {
+    "coinType": "0x3e8e9423d80e1774a7ca128fccd8bf5f1f7753be658c5e645929037f7c819040::lbtc::LBTC",
+    "symbol": "LBTC"
+  },
+  "0x8abfa63ae82ca2fbc271861375e497166d8792580fb7c2ffcf014d2a131433f0": {
+    "coinType": "0x4c981f3ff786cdb9e514da897ab8a953647dae2ace9679e8358eec1e3e8871ac::dmc::DMC",
+    "symbol": "DMC"
+  },
+  "0xeaa020c61cc479712813461ce153894a96a6c00b21ed0cfc2798d1f9a9e9c94a": {
+    "coinType": "0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7::usdc::USDC",
+    "symbol": "USDC"
+  },
+  "0xbb5ff26e47a3a6cc7ec2fce1db996c2a145300edc5acaabe43bf9ff7c5dd5d32": {
+    "coinType": "0x5145494a5f5100e645e4b0aa950fa6b68f614e8c59e17bc5ded3495123a79178::ns::NS",
+    "symbol": "NS"
+  },
+  "0x57ff7100a282e4af0c91154679c5dae2e5dcacb93fd467ea9cb7e58afdcfde27": {
+    "coinType": "0x549e8b69270defbfafd4f94e17ec44cdbdd99820b33bda2278dea3b9a32d3f55::cert::CERT",
+    "symbol": "vSUI"
+  },
+  "0xfa0bff1c97b20e18f733b2e2706e2bc0b58e64660f2b9176980eb26da0707fe4": {
+    "coinType": "0x56589f5381303a763a62e79ac118e5242f83652f4c5a9448af75162d8cb7140c::exbtc::EXBTC",
+    "symbol": "exBTC"
+  },
+  "0xf9c2e890443dd995d0baafc08eea3358be1ffb874f93f99c30b3816c460bbac3": {
+    "coinType": "0x5d1f47ea69bb0de31c313d7acf89b890dbb8991ea8e03c6c355171f84bb1ba4a::turbos::TURBOS",
+    "symbol": "TURBOS"
+  },
+  "0xbda725d49cd46896bfb3c2d6ebd778467274db6073ec1e871a8e14f9711d9563": {
+    "coinType": "0x66629328922d609cf15af779719e248ae0e63fe0b9d9739623f763b33a9c97da::esui::ESUI",
+    "symbol": "eSUI"
+  },
+  "0xb1ee80415e32e0fc42aa4acd78088e8e71de1f7c4307d99192867671f413e06e": {
+    "coinType": "0x68532559a19101b58757012207d82328e75fde7a696d20a59e8307c1a7f42ad7::egusdc::EGUSDC",
+    "symbol": "egUSDC"
+  },
+  "0x7e17f0ac105abe9214deb9944c30264f5986bf292869c6bd8e8da3ccd92d79bc": {
+    "coinType": "0x7016aae72cfc67f2fadf55769c0a7dd54291a583b63051a5ed71081cce836ac6::sca::SCA",
+    "symbol": "SCA"
+  },
+  "0x2b529621fa6e2c8429f623ba705572aa64175d7768365ef829df6a12c9f365f4": {
+    "coinType": "0x7262fb2f7a3a14c888c438a3cd9b912469a58cf60f367352c46584262e8299aa::ika::IKA",
+    "symbol": "IKA"
+  },
+  "0xae8f269ed9c4bed616c99a98cf6dfe562bd3202e7f91821a471ff854713851b4": {
+    "coinType": "0x876a4b7bce8aeaef60464c11f4026903e9afacab79b9b142686158aa86560b50::xbtc::XBTC",
+    "symbol": "xBTC"
+  },
+  "0xc591a547856b091560b120ee14b165a84ca58eca23b2ab635df641340bde1f10": {
+    "coinType": "0x87dfe1248a1dc4ce473bd9cb2937d66cdc6c30fee63f3fe0dbb55c7a09d35dec::up::UP",
+    "symbol": "UP"
+  },
+  "0xf2c5249856da2fbe0221e163b3fed678dd6f76515ab933292dfb4f15a1de8f8c": {
+    "coinType": "0x8993129d72e733985f7f1a00396cbd055bad6f817fee36576ce483c8bbb8b87b::sudeng::SUDENG",
+    "symbol": "HIPPO"
+  },
+  "0x5554bb6524edc42e933a6f67542baefe2ebe5cb2a6238f55b9471ca9e258439e": {
+    "coinType": "0x89b0d4407f17cc1b1294464f28e176e29816a40612f7a553313ea0a797a5f803::ethird::ETHIRD",
+    "symbol": "eTHIRD"
+  },
+  "0xe393449f6aff8a4b6d3e1165a7c9ebec103685f3b41e60db4277b5b6d10e7326": {
+    "coinType": "0x960b531667636f39e85867775f52f6b1f220a058c4de786905bdf761e06a56bb::usdy::USDY",
+    "symbol": "USDY"
+  },
+  "0xd7db067954e28f51a96fd50c6d51775094025ced2d60af61ec9803e553471c88": {
+    "coinType": "0x9d297676e7a4b771ab023291377b2adfaa4938fb9080b8d12430e4b108b836a9::xaum::XAUM",
+    "symbol": "XAUM"
+  },
+  "0x88250f854c019ef4f88a5c073d52a18bb1c6ac437033f5932cd017d24917ab46": {
+    "coinType": "0xa99b8952d4f7d947ea77fe0ecdcc9e5fc0bcab2841d6e2a5aa00c3044e5544b5::navx::NAVX",
+    "symbol": "NAVX"
+  },
+  "0xff61491a931112ddf1bd8147cd1b641375f79f5825126d665480874634fd0ace": {
+    "coinType": "0xaf8cd5edc19c4512f4259f0bee101a40d41ebed738ade5874359610ef8eeced5::coin::COIN",
+    "symbol": "WETH"
+  },
+  "0x7d19b607c945f7edf3a444289c86f7b58dcd8b18df82deadf925074807c99b59": {
+    "coinType": "0xb45fcfcc2cc07ce0702cc2d229621e046c906ef14d9b25e8e4d25f6e8763fef7::send::SEND",
+    "symbol": "SEND"
+  },
+  "0xef0d8b6fda2ceba41da15d4095d1da392a0d2f8ed0c6c7bc0f4cfac8c280b56d": {
+    "coinType": "0xb7844e289a8410e50fb3ca48d69eb9cf29e27d223ef90353fe1bd8e27ff8f3f8::coin::COIN",
+    "symbol": "SOL"
+  },
+  "0x6120ffcf96395c70aa77e72dcb900bf9d40dccab228efca59a17b90ce423d5e8": {
+    "coinType": "0xbde4ba4c2e274a60ce15c1cfff9e5c42e41654ac8b6d906a57efa4bd3c29f47d::hasui::HASUI",
+    "symbol": "haSUI"
+  },
+  "0xfdf28a46570252b25fd31cb257973f865afc5ca2f320439e45d95e0394bc7382": {
+    "coinType": "0xce7ff77a83ea0cb6fd39bd8748e2ec89a3f41e8efdc3f4eb123e0ca37b184db2::buck::BUCK",
+    "symbol": "BUCK"
+  },
+  "0x0b3eae8cb6e221e7388a435290e0f2211172563f94769077b7f4c4c6a11eea76": {
+    "coinType": "0xd1b72982e40348d069bb1ff701e634c117bb5f741f44dff91e472d3b01461e55::stsui::STSUI",
+    "symbol": "stSUI"
+  },
+  "0x29bdd5248234e33bd93d3b81100b5fa32eaa5997843847e2c2cb16d7c6d9f7ff": {
+    "coinType": "0xdeeb7a4662eec9f2f3def03fb937a663dddaa2e215b8078a284d026b7946c270::deep::DEEP",
+    "symbol": "DEEP"
+  },
+  "0xf85d863ce3b640bf85307be333dedc563aa3a27961c9042f89ed8300ebd3c855": {
+    "coinType": "0xe14726c336e81b32328e92afc37345d159f5b550b09fa92bd43640cfdd0a0cfd::usdb::USDB",
+    "symbol": "USDB"
+  },
+  "0x04cfeb7b143eb9c48e9b074125c1a3447b85f59c31164dc20c1beaa6f21f2b6b": {
+    "coinType": "0xe1b45a0e641b9955a20aa0ad1c1f4ad86aad8afb07296d4085e349a50e90bdca::blue::BLUE",
+    "symbol": "BLUE"
+  },
+  "0x2ee09cdb656959379b9262f89de5ff3d4dfed0dd34c072b3e22518496a65249c": {
+    "coinType": "0xe44df51c0b21a27ab915fa1fe2ca610cd3eaa6d9666fe5e62b988bf7f0bd8722::musd::MUSD",
+    "symbol": "mUSD"
+  },
+  "0xccdc1a08923e2e4f4b1e6ea89de6acbc5fe1948e9706f5604b8cb50bc1ed3979": {
+    "coinType": "0xf16e6b723f242ec745dfd7634ad072c42d5c1d9ac9d62a39c381303eaa57693a::fdusd::FDUSD",
+    "symbol": "FDUSD"
+  },
+  "0x17cd845b16e874485b2684f8b8d1517d744105dbb904eec30222717f4bc9ee0d": {
+    "coinType": "0xf325ce1300e8dac124071d3152c5c5ee6174914f8bc2161e88329cf579246efc::afsui::AFSUI",
+    "symbol": "AFSUI"
+  },
+  "0x14890ba9c221092cba3d6ce86846d61f8606cefaf3dfc20bf3e2ab99de2644c0": {
+    "coinType": "0xf6b468748dced8435f4407d0ecb0457b921a2e89266a60862e36dbf243c71841::deusd::DEUSD",
+    "symbol": "deUSD"
+  }
+}

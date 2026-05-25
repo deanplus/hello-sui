@@ -5,7 +5,6 @@ edition = "2024.beta" # edition = "legacy" to use legacy (pre-2024) Move
 # authors = ["..."]      # e.g., ["Joe Smith (joesmith@noemail.com)", "John Snow (johnsnow@noemail.com)"]
 
 [dependencies]
-memo = { r.mvr = "@toolkit/memo" }
 
 # For remote import, use the `{ git = "...", subdir = "...", rev = "..." }`.
 # Revision can be a branch, a tag, and a commit hash.
@@ -31,9 +30,6 @@ chore = "0x0"
 # Local = { local = "../path/to/dev-build" }
 
 [dev-addresses]
-
-[r.mvr]
-network = "testnet"
 # The dev-addresses section allows overwriting named addresses for the `--test`
 # and `--dev` modes.
 # alice = "0xB0B"
