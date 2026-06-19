@@ -1,5 +1,5 @@
 import { Ed25519Keypair } from "@mysten/sui/keypairs/ed25519";
-import bip39 from "bip39";
+import * as bip39 from "bip39";
 
 /**
  * Get keypair from private key

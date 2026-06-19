@@ -6,8 +6,14 @@ function getRandomKeypair() {
   console.log(accountInfo);
 }
 
+function getRandomMnemonic() {
+  const mnemonic = utils.genRandomMnemonic();
+  console.log(mnemonic);
+}
+
 async function main() {
-  getRandomKeypair();
+  // getRandomKeypair();
+  getRandomMnemonic();
 }
 
 main();
